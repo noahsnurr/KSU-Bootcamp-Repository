@@ -1,6 +1,6 @@
 # KSU Bootcamp Repository
 # Data Science & Analytics Portfolio
-This repository contains projects and visualizations created from the Data Science & Analytics program with Kansas State University.
+This repository contains projects and visualizations created from the Data Science & Analytics program with [Kansas State University](https://www.k-state.edu/).
 
 ## SQL
 
